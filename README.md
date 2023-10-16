@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NOTE: DO NOT FORK THIS REPOSITORY. CLONE AND SETUP A STANDALONE REPOSITORY.
 
 # Adbrew Test!
@@ -62,3 +63,6 @@ When you run `localhost:3000`, you would see 2 things:
 4. Do not submit your solution as a PR since this is a public repo and there are other candidates taking the same test. Send us a link to your repo privately.
 5. If you are able to complete the test, we will have a live walkthrough of your code and ask questions to check your understanding.
 6. The code for the actual solution is pretty easy. The code quality in your solution should be production-ready - error handling, abstractions, well-maintainable and modular code.
+=======
+# todoRepo
+>>>>>>> 712fe26e29704674f7e9839dbbecc832e44e493b
