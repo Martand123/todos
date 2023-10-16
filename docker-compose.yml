@@ -22,7 +22,7 @@ services:
       - ${ADBREW_CODEBASE_PATH}:/src
 
   mongo:
-    build: .
+    image: mongo:latest
     container_name: mongo
     restart: always
     ports:
